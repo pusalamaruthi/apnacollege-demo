@@ -2,4 +2,4 @@
 
 This is my first Git Repository.  
 <br>
-auther name-Pusala Maruthi
+auther name-nitin kumar
